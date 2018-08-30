@@ -2,13 +2,13 @@
 # **the ultra mega gamer gungame: A 3D third-person game where you have to shoot enemies cuz ur a gamer**
 
 ## **Versions**
-Current Version: N/A
+Current Version: [v1.0](https://github.com/DGCProductions/the-ultra-mega-gamer-gungame/releases/tag/v1.0)
 
 Current Beta: N/A
 
-Upcoming Version: N/A
+Upcoming Version: TBD
 
-[See all versions]()
+[See all versions](https://github.com/DGCProductions/the-ultra-mega-gamer-gungame/releases)
 
 ## **What the game is about...**
 
