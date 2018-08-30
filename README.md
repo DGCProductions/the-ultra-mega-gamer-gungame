@@ -1,2 +1,29 @@
-# the-ultra-mega-gamer-gungame
-A 3D third-person game where you have to shoot all the enemies cuz ur a gamer
+
+# **the ultra mega gamer gungame: A 3D third-person game where you have to shoot enemies cuz ur a gamer**
+
+## **Versions**
+Current Version: N/A
+
+Current Beta: N/A
+
+Upcoming Version: N/A
+
+[See all versions]()
+
+## **What the game is about...**
+
+**the ultra mega gamer gunegame* is a 3D game where you have to look around and shoot the enemies until they are no more
+
+Do you have more questions? Follow the [Discord](https://discord.gg/JvyF9Pq) to ask questions and get answers!
+
+## **Features (current and future plans)**
+- immersive gameplay
+- 10 enemies
+- outstanding preformance, can run on a potato, probably
+- fun
+ 
+ **Made with jMonkeyEngine**
+ 
+ **NOTE: this is a joke project, but is fun eitherway**
+ 
+ **Created by DGC Productions**
