@@ -12,7 +12,7 @@ Upcoming Version: TBD
 
 ## **What the game is about...**
 
-**the ultra mega gamer gunegame* is a 3D game where you have to look around and shoot the enemies until they are no more
+**the ultra mega gamer gungame** is a 3D game where you have to look around and shoot the enemies until they are no more
 
 Do you have more questions? Follow the [Discord](https://discord.gg/JvyF9Pq) to ask questions and get answers!
 
