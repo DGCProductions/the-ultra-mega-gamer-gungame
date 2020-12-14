@@ -6,7 +6,7 @@ Current Version: [v1.0](https://github.com/DGCProductions/the-ultra-mega-gamer-g
 
 Current Beta: N/A
 
-Upcoming Version: TBD
+Upcoming Version: N/A
 
 [See all versions](https://github.com/DGCProductions/the-ultra-mega-gamer-gungame/releases)
 
